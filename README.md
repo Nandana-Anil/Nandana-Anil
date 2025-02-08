@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandana-anil&label=Profile%20views&color=0e75b6&style=flat" alt="nandana-anil" /> </p>
 
-/*<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandana-anil" alt="nandana-anil" /></a> </p>*/
-
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Data Science**
 
 - 💬 Ask me about **React, java, python**
