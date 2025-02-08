@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nandana-anil" alt="nandana-anil" /></a> </p>
 
-- 🌱 I’m currently learning **three.js**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Data Science**
 
-- 💬 Ask me about **react, java**
+- 💬 Ask me about **React, java, python**
 
 - 📫 How to reach me **anilnandana51@gmail.com**
 
