@@ -1,4 +1,4 @@
-# Hi there, I'm Nandana Anil! 👋🚀
+# Hi there, I'm Nandana Anil! 👋
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nandana%20Anil&fontSize=40&fontAlignY=40)
 
