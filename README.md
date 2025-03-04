@@ -20,12 +20,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NandanaAnil&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NandanaAnil&theme=radical"/>
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
 
 ## 🚀 Top Languages
 
