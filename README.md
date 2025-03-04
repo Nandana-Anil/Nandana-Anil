@@ -20,7 +20,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+## Profile Views
+![Profile Views](https://komarev.com/ghpvc/?Nandana-Anil&color=blue)
 
 ## 🚀 Top Languages
 
@@ -32,6 +33,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/nandana-anil](https://www.linkedin.com/in/nandana-anil-08448a253/))
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nandana-Anil)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anilnandana51@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/nandana_anil/)
+
 
 ---
 
