@@ -26,7 +26,7 @@
 ## 🚀 Top Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandanaAnil&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandana-Anil&layout=compact&theme=radical" />
 </div>
 
 ## 📫 Connect with Me
